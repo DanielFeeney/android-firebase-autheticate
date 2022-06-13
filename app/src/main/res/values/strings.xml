@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Strings relacionadas ao login -->
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Entrar</string>
+    <string name="action_sign_in"><u>Cadastrar</u></string>
+    <string name="action_forgot_password"><u>Esqueci a senha</u></string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <!-- Strings relacionadas ao cadastro -->
+    <string name="title_activity_new_user">Criar novo usuario</string>
+    <string name="action_new_user">Cadastrar</string>
+
+    <!-- Strings relacionadas a recuperar senha -->
+    <string name="title_activity_forgot_password">Esqueceu a senha</string>
+    <string name="action_recover_password">Recuperar a senha</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Strings relacionadas a pagina principal -->
+    <string name="action_settings">Sair</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+</resources>
